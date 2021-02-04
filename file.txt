@@ -1,4 +1,10 @@
 hello shivam
-le maccha i have changed the file, check it ra(added same thing here)
+
+le maccha i have changed the file, check it ra
 checking for bug
 now i have modified the master to see the 3 way merge
+
+
+change 1 
+change 2
+
