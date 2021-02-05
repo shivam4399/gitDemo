@@ -7,4 +7,5 @@ now i have modified the master to see the 3 way merge
 
 change 1 
 change 2
+change after added to github for the first time
 
